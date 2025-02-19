@@ -1,4 +1,4 @@
-<h2 align="left">Ola 👋! Meu nome é Alisson eu sou do Brasil....</h2>
+<h2 align="left">Ola 👋! Meu nome é Alisson e eu sou do Brasil....</h2>
 
 ###
 
